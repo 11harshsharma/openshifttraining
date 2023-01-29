@@ -1,7 +1,7 @@
 <?php
 
-print "Hello, I'm Harsh \n"
+print "Hello, I'm Harsh \n";
 
-print "Adding New feaature"
+print "Adding New feature \n";
   
 ?> 
